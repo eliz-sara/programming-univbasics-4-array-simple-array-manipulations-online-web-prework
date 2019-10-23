@@ -18,3 +18,5 @@ using_shift(array)
   array.shift
 end
 
+shift_with_args
+  array.shift(2)
