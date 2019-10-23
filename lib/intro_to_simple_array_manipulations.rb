@@ -18,6 +18,6 @@ using_shift(array)
   array.shift
 end
 
-shift_with_args(args)
-  args.shift(2)
+shift_with_args(array)
+  array.shift(2)
 end
